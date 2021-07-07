@@ -1,8 +1,8 @@
 - name: Home
   link: /notes.github.io/
 - name: About
-  link: /about.html
+  link: /notes.github.io/about.html
 - name: Blog
-  link: /blog.html
+  link: /notes.github.io/blog.html
 - name: Staff
-  link: /staff.html
+  link: /notes.github.io/staff.html
